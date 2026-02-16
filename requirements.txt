@@ -34,8 +34,6 @@ jedi==0.19.2
 Jinja2==3.1.6
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
-jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jupyter_client_1767954655/work
-jupyter_core @ file:///D:/bld/bld/rattler-build_jupyter_core_1760643889/work
 keras==3.13.2
 kiwisolver==1.4.9
 libclang==18.1.1
@@ -96,4 +94,5 @@ watchdog==6.0.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1770634525285/work
 Werkzeug==3.1.5
 wrapt==2.1.1
+
 
