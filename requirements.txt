@@ -1,6 +1,6 @@
 absl-py==2.4.0
 altair==6.0.0
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1763409923949/work
+asttokens==3.0.1
 astunparse==1.6.3
 attrs==25.4.0
 beautifulsoup4==4.14.3
@@ -9,13 +9,13 @@ cachetools==6.2.6
 certifi==2026.1.4
 charset-normalizer==3.4.4
 click==8.3.1
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
-comm @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_comm_1753453984/work
+colorama==0.4.6
+comm==0.2.3
 contourpy==1.3.3
 cycler==0.12.1
-debugpy @ file:///D:/bld/bld/rattler-build_debugpy_1769745017/work
-decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1740384970518/work
-executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1756729339227/work
+debugpy==1.8.19
+decorator==5.2.1
+executing==2.2.1
 filelock==3.24.2
 flatbuffers==25.12.19
 fonttools==4.61.1
@@ -27,10 +27,10 @@ google-pasta==0.2.0
 grpcio==1.78.0
 h5py==3.15.1
 idna==3.11
-ipykernel @ file:///D:/bld/bld/rattler-build_ipykernel_1770566174/work
-ipython @ file:///D:/bld/bld/rattler-build_ipython_1770040952/work
-ipython_pygments_lexers @ file:///home/conda/feedstock_root/build_artifacts/ipython_pygments_lexers_1737123620466/work
-jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1733300866624/work
+ipykernel==7.1.0
+ipython==9.9.0
+ipython_pygments_lexers==1.1.1
+jedi==0.19.2
 Jinja2==3.1.6
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
@@ -96,3 +96,4 @@ watchdog==6.0.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1770634525285/work
 Werkzeug==3.1.5
 wrapt==2.1.1
+
